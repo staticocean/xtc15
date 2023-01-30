@@ -1,0 +1,7 @@
+compilers:
+
+  - description: XMOS XCC 15
+    match-sources: ".*\\.(c|xc|S|s)"
+    match-compiler-exe: "(.*/)?xcc"
+    code-insight-target-name: xcc
+    include-dirs: ["${compiler-exe-dir}/../target/include", "/usr/include"]

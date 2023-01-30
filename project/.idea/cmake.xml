@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-XCORE-200-EXPLORER" ENABLED="true" GENERATION_DIR="build/debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="xcc" GENERATION_OPTIONS="-DCMAKE_C_FLAGS=&quot;-target=XCORE-200-EXPLORER -DCMAKE_BUILD_TYPE=Debug&quot;" />
+      <configuration PROFILE_NAME="Release-XCORE-200-EXPLORER" ENABLED="true" GENERATION_DIR="build/release" CONFIG_NAME="Release" TOOLCHAIN_NAME="xcc" GENERATION_OPTIONS="-DCMAKE_C_FLAGS=&quot;-target=XCORE-200-EXPLORER -DCMAKE_BUILD_TYPE=Release&quot;" />
+    </configurations>
+  </component>
+</project>
